@@ -1,0 +1,8 @@
+/* External CSS Method*/
+div {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
